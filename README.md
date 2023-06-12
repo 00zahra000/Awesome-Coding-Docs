@@ -2,7 +2,7 @@
 Here we share Documents or codes, that helped us become better programmers.
 
 
-Multiprocessing \ Parallel Processing in python: 
+<b> Multiprocessing \ Parallel Processing in python </b>:
 
 1. https://drive.google.com/file/d/12o43-Li1TBj4qh59szOT4BTheDRfpvGS/view?usp=drive_link  (داکیومنت فارسی)
 2. https://superfastpython.com/multiprocessing-pipe-in-python/
